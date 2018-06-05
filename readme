@@ -1,0 +1,4 @@
+compilation instructions:
+compile using
+	gcc smallsh.c -o smallsh
+
